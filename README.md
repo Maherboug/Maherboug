@@ -98,7 +98,8 @@
 ## 📣 Let's Connect
 
 If you're building in **Web3**, **AIoT**, or **Decentralized Infrastructure**, let's collaborate!  
-📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri)
+📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri) -  [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Boughdiri-Maher)
+
 
 ---
 
