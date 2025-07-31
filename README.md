@@ -14,7 +14,6 @@
 - 👨‍🎓 Ph.D. in Computer Science – Blockchain Systems (SERCOM Lab, Tunisia Polytechnic School)
 - 💼 COO & Co-founder at **Oranext AI** — Building the future of **Manufacturing 4.0**
 - 🛡️ Former Cybersecurity Analyst @ **Ministry of Defense**, Tunisia
-- 🔭 Tech Lead at MultiverseAI — Real-time Health monitoring systems for agriculture and aquaculture
 - 🌱 Currently learning advanced ZKP, Layer 2 scaling, and AI-driven blockchain security
 - 💬 Ask me about **blockchain security**, **smart contracts**, **AI for threat detection**, and **federated learning**
 
