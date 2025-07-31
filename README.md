@@ -5,6 +5,7 @@
   <a href="mailto:maher.boughdiri@yahoo.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maherboughdiri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Maherboug"><img src="https://img.shields.io/github/followers/Maherboug?label=Follow&style=for-the-badge" /></a>
+  <a href="https://www.researchgate.net/profile/Boughdiri-Maher"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" /></a>
 </p>
 
 ---
@@ -98,7 +99,7 @@
 ## 📣 Let's Connect
 
 If you're building in **Web3**, **AIoT**, or **Decentralized Infrastructure**, let's collaborate!  
-📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri) -  [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Boughdiri-Maher)
+📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri) 
 
 
 ---
