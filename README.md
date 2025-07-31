@@ -1,68 +1,108 @@
-<h1 align="center">Hi there 👋, I'm Maher Boughdiri</h1>
+<h1 align="center">Hi 👋, I'm Maher Boughdiri</h1>
+<h3 align="center">Blockchain Developer | Cybersecurity Researcher | Edge AI & IoT Innovator</h3>
 
 <p align="center">
-🚀 Blockchain Engineer | 🔐 Cybersecurity Researcher | 🧠 Edge AI Enthusiast | 🌐 IoT Architect
+  <a href="mailto:maher.boughdiri@yahoo.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maherboughdiri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Maherboug"><img src="https://img.shields.io/github/followers/Maherboug?label=Follow&style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 👋 I’m **@Maherbougdiri**
-- 🎓 I hold an Engineering and PhD degree in **Computer Science**
-- 👀 My interests include:
-  - Blockchain Security & Privacy
-  - Blockchain Scalability & Interoperability
-  - Distributed Systems & Edge Computing
-  - AI on the Edge & IoT Systems
-- 🌱 I’m currently learning advanced **Blockchain Development**  
-- 💞️ I’m open to collaborations on **Blockchain, Cybersecurity, and IoT**
-- 📫 Reach me at: [maher.boughdiri@yahoo.com](mailto:maher.boughdiri@yahoo.com)  
-  [LinkedIn](https://www.linkedin.com/in/maherboughdiri)
+- 👨‍🎓 Ph.D. in Computer Science – Blockchain Systems (SERCOM Lab, Tunisia Polytechnic School)
+- 💼 COO & Co-founder at **Oranext AI** — Building the future of **Manufacturing 4.0**
+- 🛡️ Former Cybersecurity Analyst @ **Ministry of Defense**, Tunisia
+- 🔭 Tech Lead at MultiverseAI — Real-time Health monitoring systems for agriculture and aquaculture
+- 🌱 Currently learning advanced ZKP, Layer 2 scaling, and AI-driven blockchain security
+- 💬 Ask me about **blockchain security**, **smart contracts**, **AI for threat detection**, and **federated learning**
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Research Interests
 
-- **Languages**: `Python`, `Solidity`, `JavaScript`, `C`, `Rust`
-- **Blockchain**: `Ethereum`, `Hyperledger Fabric`, `Polygon`, `Aptos`, `Solana`
-- **Smart Contract Tools**: `Hardhat`, `Truffle`, `Ganache`, `OpenZeppelin`
-- **Backend**: `Node.js`, `Express`, `MySQL`, `MongoDB`, `PostgreSQL`
-- **IoT & Edge**: `Raspberry Pi`, `MQTT`, `ESP32`, `Arduino`
-- **AI/ML**: `TensorFlow`, `PyTorch`, `scikit-learn`
-- **DevOps & Cloud**: `Docker`, `Kubernetes`, `GitHub Actions`, `Azure`, `AWS`
-- **Security**: `Wireshark`, `Metasploit`, `Burp Suite`, `OWASP ZAP`
+- 🔐 **Blockchain Security & Risk Modeling**
+- 🔗 **Blockchain Scalability & Layer 2 Systems**
+- 🧠 **Federated Learning & Edge AI**
+- 🕸️ **IoT & Industrial Systems Security**
+- 🌱 **Trust Frameworks in Distributed Learning**
 
 ---
 
-### 🔬 Current Research Topics
+## 🔬 Selected Publications
 
-- ✅ Trust Management in Federated Learning for Edge IoT
-- ✅ Blockchain-based Supply Chain Traceability and Certification (TrustTwins, TrustWins)
-- ✅ Efficient Off-chain Storage for Scalable DLT Systems
-- ✅ Smart Contract Security Auditing and Formal Verification
+- 📄 *A Systematic Literature Review on Blockchain Storage Scalability*, IEEE Access, 2025  
+- 📄 *ScalaChain: A Scalable Blockchain System*, Peer-to-Peer Networking and Applications, 2025  
+- 📄 *Framework for Blockchain Risk Assessment*, Peer-to-Peer Networking and Applications, 2025  
+- 📄 *Threat Modeling Approach for Blockchain Security Assessment*, AICCSA 2024
 
 ---
 
-### 📁 Featured Repositories
+## 💻 Tech Stack
+
+**Languages**:  
+`Python` `C/C++` `Solidity` `JavaScript` `Rust` `Go`
+
+**Blockchain**:  
+`Ethereum` `Celo` `Hyperledger Fabric` `Solana` `Aptos`  
+`Hardhat` `Truffle` `Ganache` `OpenZeppelin` `IPFS` `Swarm`
+
+**AI & ML**:  
+`TensorFlow` `PyTorch` `FedML` `LangChain` `HuggingFace` `Azure AI Studio`
+
+**Security Tools**:  
+`SIEM` `Splunk` `MS Defender XDR` `Sentinel` `Metasploit` `Burp Suite` `Wazuh`
+
+**Frameworks & Standards**:  
+`ISO27001` `ISO27005` `NIST CSF` `GDPR` `DORA` `MITRE ATT&CK`
+
+**Databases & Cloud**:  
+`MySQL` `PostgreSQL` `Cassandra` `Firebase`  
+`Azure` `Azure IoT Hub` `Kafka` `Node-RED`
+
+---
+
+## 🧩 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [TrustTwins](https://github.com/Maherboug/TrustTwins) | Blockchain-powered platform for food supply chain traceability |
-| [TrustWins](https://github.com/Maherboug/TrustWins) | NFT-based certification system for sustainable agriculture |
-| [ScalaChain](https://github.com/Maherboug/ScalaChain) | Scalable blockchain architecture with optimized off-chain storage |
-| [EdgeFed](https://github.com/Maherboug/EdgeFed) | Federated learning on edge devices with dynamic trust scoring |
+| [TrustTwins](https://github.com/Maherboug/TrustTwins) | 🐓 Blockchain-powered platform for food supply chain traceability |
+| [TrustWins](https://github.com/Maherboug/trustrain) | ✅ **TrustTrain** is a decentralized platform designed to empower AI development by securely sharing datasets and computing power|
+| [ScalaChain](https://github.com/Maherboug/ScalaChain) | 📦 Scalable blockchain with off-chain storage and querying |
+| [EdgeFed](https://github.com/Maherboug/EdgeFed) | 🔐 Federated Learning on edge devices with trust scoring |
 
 ---
 
-### 🌐 Connect With Me
+## 🎓 Education
 
-<p align="center">
-  <a href="mailto:maher.boughdiri@yahoo.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/maherboughdiri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+- 🧪 **Ph.D.** in Computer Science — SERCOM Lab, Tunisia Polytechnic School  
+  *Secure & Scalable Blockchain Systems*
+- 🛡️ **M.Eng.** in Cybersecurity — Faculty of Sciences of Sfax  
+  *Federated Learning for IIoT Intrusion Detection*
+- 📶 **M.Eng.** in IoT & Data — Tunisia Polytechnic School  
+  *Collaborative eHealth System Using Blockchain*
 
-<!---
-Maherboug/Maherboug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🏆 Certifications
+
+- 🎯 Certified Hedera Hashgraph Developer  
+- ✅ ISO 27001 Lead Implementer & ISO 27005 Risk Manager  
+- 🎓 NVIDIA: AI for Cybersecurity / Deep Learning / Data Engineering  
+- 🔐 Certified Blockchain Security Professional (CBSP)  
+- 🧰 IBM Blockchain Developer & Essentials  
+- 🧠 Scrum Master (PSM I), Google Project Management
+
+---
+
+## 📣 Let's Connect
+
+If you're building in **Web3**, **AIoT**, or **Decentralized Infrastructure**, let's collaborate!  
+📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri)
+
+---
+
+<!--
+Maherboug/Maherboug is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
