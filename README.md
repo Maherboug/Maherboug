@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 👨‍🎓 Ph.D. in Computer Science – Blockchain Systems (SERCOM Lab, Tunisia Polytechnic School)
+- 👨‍🎓 Ph.D. in Computer Science  (SERCOM Lab, Tunisia Polytechnic School)
 - 💼 COO & Co-founder at **Oranext AI** — Building the future of **Manufacturing 4.0**
 - 🛡️ Former Cybersecurity Analyst @ **Ministry of Defense**, Tunisia
 - 🌱 Currently learning advanced ZKP, Layer 2 scaling, and AI-driven blockchain security
@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Research Interests
-
+- ⚡ **High-Performance Big Data Pipelines** 
 - 🔐 **Blockchain Security & Risk Modeling**
 - 🔗 **Blockchain Scalability & Layer 2 Systems**
 - 🧠 **Federated Learning & Edge AI**
@@ -41,7 +41,16 @@
 
 ## 💻 Tech Stack
 
-**Languages**:  
+**Data Engineering:**  
+`Python` `Scala` `Spark/PySpark` `Flink` `Dask` `Airflow` `Hadoop` `Kafka` `Cassandra` `Hive`  
+
+**Databases:**  
+`MySQL` `PostgreSQL` `MongoDB` `TimescaleDB` `HBase` `NoSQL`  `Cassandra` `Firebase`  
+
+**Cloud & DevOps:**  
+`Azure` `Azure IoT Hub` `Docker` `Kubernetes` `Terraform` `CI/CD (Jenkins, GitHub Actions, GitLab)`  
+
+**Programming Languages**:  
 `Python` `C/C++` `Solidity` `JavaScript` `Rust` `Go`
 
 **Blockchain**:  
@@ -57,9 +66,6 @@
 **Frameworks & Standards**:  
 `ISO27001` `ISO27005` `NIST CSF` `GDPR` `DORA` `MITRE ATT&CK`
 
-**Databases & Cloud**:  
-`MySQL` `PostgreSQL` `Cassandra` `Firebase`  
-`Azure` `Azure IoT Hub` `Kafka` `Node-RED`
 
 ---
 
