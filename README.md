@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maher Boughdiri</h1>
-<h3 align="center">Blockchain Developer | Cybersecurity Researcher | Edge AI & IoT Innovator</h3>
+<h3 align="center">Big Data Developer | Cybersecurity Researcher | Edge AI & IoT Innovator</h3>
 
 <p align="center">
   <a href="mailto:maher.boughdiri@yahoo.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
