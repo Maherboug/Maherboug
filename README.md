@@ -104,7 +104,7 @@
 
 ## 📣 Let's Connect
 
-If you're building in **Web3**, **AIoT**, or **Decentralized Infrastructure**, let's collaborate!  
+If you're building in **Data engineering**, **Web3**, **AIoT**, or **Decentralized Infrastructure**, let's collaborate!  
 📫 Drop me an email at `maher.boughdiri@yahoo.com` or reach out on [LinkedIn](https://www.linkedin.com/in/maherboughdiri) 
 
 
